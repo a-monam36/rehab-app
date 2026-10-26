@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # ⚡ FITTER
@@ -14,10 +15,7 @@
 
 <br />
 
-<!-- 
-  [DEV NOTE] Replace this placeholder with an actual GIF of your app! 
-  Recommended size: 800x400 or a side-by-side of two phone screens.
--->
+<img width="2912" height="1440" alt="fitter app" src="https://github.com/user-attachments/assets/8cffde6c-1041-42e9-8c49-93f8c5854100" />
 
 </div>
 
